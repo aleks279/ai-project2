@@ -1,0 +1,17 @@
+documentation/.DS_Store
+documentation/128n2l-Accuracy.dat
+documentation/128n2l-Loss.dat
+documentation/128n3l-Accuracy.dat
+documentation/128n3l-Loss.dat
+documentation/256n2l-Accuracy.dat
+documentation/256n2l-Loss.dat
+documentation/256n3l-Accuracy.dat
+documentation/256n3l-Loss.dat
+documentation/512n2l-Accuracy.dat
+documentation/512n2l-Loss.dat
+documentation/512n3l-Accuracy.dat
+documentation/512n3l-Loss.dat
+documentation/docomentation.fdb_latexmk
+documentation/docomentation.fls
+documentation/docomentation.synctex.gz
+documentation/testing-results.dat
